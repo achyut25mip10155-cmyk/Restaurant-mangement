@@ -15,3 +15,15 @@ tea:20
 coffee:30
 fries:30
 this project is mainly made by usinf if or else statement.
+Fratures :
+       1,display's menu with welcoming customer
+       2,item_1 if available then served else display's order unavailable
+       3,another_order
+            ,yes then what is order 
+            ,no then order total
+       4, review
+
+Primarily this project explains the restaurent menu management with if and else statement.
+<img width="1190" height="679" alt="Screenshot 2025-11-24 110148" src="https://github.com/user-attachments/assets/10715913-8350-4fad-9c25-45a6e91b114a" />
+<img width="784" height="282" alt="Screenshot 2025-11-24 110202" src="https://github.com/user-attachments/assets/21be9f92-6e33-4493-ac96-dc413a75ac72" />
+<img width="509" height="466" alt="Screenshot 2025-11-24 110240" src="https://github.com/user-attachments/assets/83369202-d22a-4c68-bf69-9c70eb940ec1" />
